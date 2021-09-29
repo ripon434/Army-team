@@ -1,0 +1,9 @@
+.team-container{
+    display: grid;
+    grid-template-columns:4fr 1fr ;
+}
+
+.army-data-container{
+    display: grid;
+    grid-template-columns: repeat(0,3fr);
+}
