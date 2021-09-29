@@ -4,7 +4,7 @@
     "img": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/1908/5671441/1000w_q95.jpg",
     "name": "Abul",
     "salary": 50000,
-    "Country": "Bangladesh",
+    "Country": "Italy",
     "position": "General"
   },
   {
@@ -20,7 +20,7 @@
     "img": "https://static.independent.co.uk/2020/12/31/20/haydenharris.jpg?width=982&height=726&auto=webp&quality=75",
     "name": "Babul",
     "salary": 70000,
-    "Country": "Bangladesh",
+    "Country": "Japan",
     "position": "Major General"
   },
   {
@@ -28,7 +28,7 @@
     "img": "https://static01.nyt.com/images/2019/09/09/us/09SOLDIER-ortiz/merlin_160316760_a61ee067-c044-48c9-b531-ae265f1aa211-jumbo.jpg",
     "name": "Nabil",
     "salary": 80000,
-    "Country": "Bangladesh",
+    "Country": "USA",
     "position": "Major General"
   },
   {
@@ -36,7 +36,7 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx4NdzuHQ51qQNh6WAjNxnRTYdBmjNl5BwawbVYgNzPIYi63VXKM-379FN-6nGguLoPlo&usqp=CAU",
     "name": "Sakib",
     "salary": 90000,
-    "Country": "Bangladesh",
+    "Country": "India",
     "position": "Brigadie General"
   },
   {
@@ -68,7 +68,7 @@
     "img": "https://api.army.mil/e2/c/images/2019/07/16/559136/original.jpg",
     "name": "Jabir",
     "salary": 505000,
-    "Country": "Bangladesh",
+    "Country": "UK",
     "position": "General"
   }
 ]

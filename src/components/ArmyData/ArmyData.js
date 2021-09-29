@@ -5,7 +5,7 @@ import './ArmyData.css'
 
 const ArmyData = (props) => {
     // console.log(props);
-    const { name, img, salary, position, age, country } = props.team;
+    const { name, img, salary, position, age, Country } = props.team;
     return (    
         <div className="card-body" >
             <div className="car">
@@ -14,6 +14,7 @@ const ArmyData = (props) => {
                     <p>Age:{ age}</p>
                     <p>Salary:${ salary}</p>
                 <p>Position:{position}</p>
+                <p>Country:{Country }</p>
                  <button
                     onClick={() => props.handleAddToArmy(props.team)}
                     className="btn-regular"
